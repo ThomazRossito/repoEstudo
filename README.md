@@ -1,2 +1,2 @@
 # repoEstudo
-Repo de estudo git
+Repositório de estudo git
